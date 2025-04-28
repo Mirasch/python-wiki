@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_python_wiki=self.webpackChunkmy_python_wiki||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/python-wiki/blog","blogTitle":"Blog","authorsListPath":"/python-wiki/blog/authors"}')}}]);
